@@ -33,30 +33,57 @@ Introducción a probabilidad: cálculo clásico de probabilidades, simulación e
 #### APE02_GrupoC
 Configuración del entorno Python y trabajo con variables aleatorias: distribución Binomial (discreta), distribución Normal (continua), y una simulación comparativa entre ambas.
 
-📌 [APE02](APE2_GrupoC.ipynb)
+📌 [APE02](https://drive.google.com/file/d/1AB_d2mFqT4j_K1rfP9Jy_fh-uHw7N_By/view?usp=sharing)
 
 #### APE03_GrupoC
 Demostración práctica del Teorema del Límite Central: generación de muestras de distintas poblaciones y visualización de cómo la media muestral converge a una normal.
 
-📌 [APE03](APE3_GrupoC.ipynb)
+📌 [APE03](https://drive.google.com/file/d/1WQIFvqWfsu33ih1RTwpIxJI4UoWIm79D/view?usp=sharing)
 
 #### APE04_GrupoC
 Diferenciación entre variables aleatorias discretas (lanzamiento de dado) y continuas (tiempo de respuesta de un servidor con distribución normal), con sus respectivas PMF/PDF.
 
-📌 [APE04](APE4_GrupoC.ipynb)
+📌 [APE04](https://drive.google.com/file/d/1zvtzfstPE6Zyri8a9Pt7thyD69415rzr/view?usp=sharing)
 
 #### APE05_GrupoC
 Momentos estadísticos y tendencia central: elección de una distribución Binomial, cálculo de esperanza matemática (teórica y simulada), y análisis de tendencia central/dispersión aplicado al proyecto del dataset regional.
 
-📌 [APE05](APE5_GrupoC.ipynb)
+📌 [APE05](https://drive.google.com/file/d/1bd8cailb72L9QthAaqYA7jqkxFYGo9nt/view?usp=sharing)
 Distribuciones discretas notables: modelado Binomial (fallos de microservicios) y Poisson (eventos raros, peticiones erróneas de servidores), con identificación de variables de conteo en el dataset regional.
 
 #### APE06_GrupoC
 Distribuciones discretas notables: modelado Binomial (fallos de microservicios) y Poisson (eventos raros, peticiones erróneas de servidores), con identificación de variables de conteo en el dataset regional.
 
-📌 [APE06](APE6_GrupoC.ipynb)
+📌 [APE06](https://drive.google.com/file/d/1afnaWUY0Ynyq5Wbxgp1ag8EQjDepKrJF/view?usp=sharing)
 
 #### EvaluacioUnidad1 
 Evaluación integradora: análisis del dataset ENEMDU (encuesta de consumidores), clasificación de variables discretas/continuas, análisis estadístico del factor de expansión fexp (con ajuste log-normal), y modelado de la variable area como distribución de Bernoulli.
 
-📌 [EvaluacioUnidad1](EvaluacioUnidad1.ipynb)
+📌 [EvaluacioUnidad1](https://drive.google.com/file/d/1AuSvswdjk1EFrxraRjp76Qo_zEVYin4p/view?usp=sharing)
+
+### 💡Unidad 2
+
+#### APE07_GrupoC
+Distribución Normal: modelado gaussiano, estandarización (valores Z), aplicación probabilística sobre el dataset ENEMDU regional, y validación de normalidad de la variable fexp mediante Q-Q Plot y test de Shapiro-Wilk (concluyendo que no es normal).
+
+📌 [APE07](https://drive.google.com/file/d/1Fd-A5bfPP5vquOgSl9FOtFJGDIWfmX6Y/view?usp=sharing)
+
+#### APE08_GrupoC
+Teorema del Límite Central vía simulación estocástica: generación de población asimétrica, simulación del TLC, y aplicación de bootstrapping (remuestreo) sobre el dataset regional.
+
+📌 [APE08](https://drive.google.com/file/d/1IdQagcLwxbTmds-a2iZu9hbokezMK0XL/view?usp=sharing)
+
+#### APE09_GrupoC
+Intervalos de confianza: método Z (muestras grandes) y T de Student (muestras pequeñas), aplicados tanto a datos simulados como a la variable fexp del dataset regional.
+
+📌 [APE09](https://drive.google.com/file/d/1OKBTcJFMtLIfa8PnlgD5T0PFOb25MNlg/view?usp=sharing)
+
+#### APE10_GrupoC
+Pruebas de hipótesis paramétricas: prueba Z, prueba T (varianza desconocida, con ejemplo de tiempos de carga de una app), y contraste de hipótesis sobre fexp_numeric del dataset regional.
+
+📌 [APE10](https://drive.google.com/file/d/11yCdPZTyyQNFdc3gp1SZv51LQIYH_bzT/view?usp=sharing)
+
+#### APE11_GrupoC
+ANOVA y pruebas post-hoc: prueba T para dos muestras independientes (A/B testing de algoritmos) y prueba T para muestras pareadas (latencia de servidores antes/después de un firewall).
+
+📌 [APE11](https://drive.google.com/file/d/1PtFCSlkfdoNfXZMJ0MIkftc0tx3GTct8/view?usp=sharing)
