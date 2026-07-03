@@ -28,7 +28,7 @@ En este apartado adjuntaremos las tareas catalogadas como APEs realizadas derant
 #### APE01_GrupoC
 Introducción a probabilidad: cálculo clásico de probabilidades, simulación empírica para verificar esas probabilidades teóricas, y probabilidad condicional/independencia con un caso de estudio.
 
-📌 [APE01](https://raw.githubusercontent.com/Jullsx2800/index/Teoría de la Distribución y Probabilidad/Unidad1/APE1_GrupoC.ipynb)
+📌 [APE01](https://drive.google.com/file/d/1j98ASMeVKnySDdVQv1hzgAB_BOg9eitv/view?usp=sharing)
 
 #### APE02_GrupoC
 Configuración del entorno Python y trabajo con variables aleatorias: distribución Binomial (discreta), distribución Normal (continua), y una simulación comparativa entre ambas.
