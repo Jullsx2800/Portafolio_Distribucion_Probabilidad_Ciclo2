@@ -1,12 +1,14 @@
+<div align="center">
+
 # UNIVERSIDAD NACIONAL DE LOJA 
+
+</div>
 
 <div align="center">
   <img src="https://blogger.googleusercontent.com/img/a/AVvXsEh8nLvFWvLUvbVkUF5iaK4QUUPIXLkIeGmo4onr5StjJRjruDyES-LKtqrjQ3hQ5GaH6qQR5_QEJewx7x_oZiOP1BDeJyDDE0qMjROokeIdAhmBIZ7mHICmZ19M42Y3FmDbYFqDpskE_LNZgxKf7q72yyu9klIgzUrPPbpIdgfAwSFGb6rhkcOkvrMvQf0" width="300">  
 </div>
 
 ---
-# Teoria de la Distrucion y Probabilidad 
-¡Bienvenidos a la asignatura de Teoría de la Distribución y Probabilidad! Bajo la dirección del docente PhD (c). Cristian R. Narváez Guillén Mg.Sc., este curso de la Carrera de Computación les invita a transformar la incertidumbre en una herramienta de precisión ingenieril. La materia estará organizada en 3 unidades clave, en las cuales se desarrollarán de forma integrada actividades bajo las modalidades ACD, AA, API, ABP, APE y ES. A través de este enfoque de aprendizaje auténtico, exploraremos la aplicación de la probabilidad en áreas como la inteligencia artificial y la optimización de sistemas, utilizando simulaciones y tecnología moderna para convertir los datos en decisiones inteligentes.
 
 ### 📢PRESENTACIÓN
 
