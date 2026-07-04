@@ -12,11 +12,12 @@ Bienvenidos a la asignatura de Teoría de la Distribución y Probabilidad. Bajo 
   <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhWQPlefl0Ecdt4wXwwkGbFb1b0gUhBX842LW31u-GcU6eLV4EV9A6cPvKdPnlFwskUDgylPv76JR3BdbvkhtmnSXxMgTkaRdxJSXhn3Mu9Pp5C_0pyUUatJXi4uDEcsJoiSjEZwesprBLRZTzmXD2-N_HGf_pN49qrniH2m3htVWoGDv8GgLtLRcD4RUk" width="500">  
 </div>
 
----
-
 <div align="center">
+</div>
 
-###DataSet ENEMDU 
+--- 
+
+### DataSet ENEMDU 
 
 El dataset ENEMDU (Encuesta Nacional de Empleo, Desempleo y Subempleo) es una base de datos demográfica y socioeconómica oficial de Ecuador que recopila información sobre las condiciones de vida, empleo y características de los hogares.
 
@@ -25,7 +26,7 @@ El dataset ENEMDU (Encuesta Nacional de Empleo, Desempleo y Subempleo) es una ba
 
 ## 🛠️Actividades De la Materia🛠️
 
-</div>
+
 
 
 En este apartado adjuntaremos las tareas catalogadas como APEs realizadas derante el trayevto de la materia.
