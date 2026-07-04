@@ -27,29 +27,12 @@ Teoría de la Distribucion Y Probabilidad
 
 ---
 
-### 🚀 Portafolio Digital de Aprendizaje
+<div align="center">
+  
+# 🎯🎯Contenido General de la Materia
 
-#### I. 📚 Unidad 1: 
-[📁CONTENIDOS UNIDAD 11️⃣](unidad1.md)
+Se muestran las actividades cursadas durante la materia 
 
-[📚ACTIVIDADES UNIDAD 1🛠️](tareasEntregadasUnidad1.md)
-#### II. 💡 Unidad 2: 
+[Teoria de la Distribucion y Probabilidad](Teoria_Distribucion_Y_Probabilidad.md)
 
-[📁CONTENIDOS UNIDAD 22️⃣](unidad2.md)
-
-[📚ACTIVIDADES UNIDAD 2🛠️](tareasEntregadasUnidad2.md)
-
-#### III. 🛠️ Unidad 3: 
-
-[📁CONTENIDOS UNIDAD 33️⃣](unidad3.md)
-
-[📚ACTIVIDADES UNIDAD 3🛠️](tareasEntregadasUnidad3.md)
-
----
-
-### 🌟 Conclusiones
-
----
-
-### 🤖 Uso de IA Generativa (Reflexión)
-Para llevar a cabo estas actividades se uso la IA (Gemini) la cual se uso a forma de tutor para ayudarme a mejorar la estetica y comandos para diferentes funciones en Markdown, asi como para mejorar la redaccion de los textos y la implementacion de estructuras desconocidas y a formar ideas claras y precisas.
+</div>
