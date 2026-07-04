@@ -89,3 +89,9 @@ Pruebas de hipótesis paramétricas: prueba Z, prueba T (varianza desconocida, c
 ANOVA y pruebas post-hoc: prueba T para dos muestras independientes (A/B testing de algoritmos) y prueba T para muestras pareadas (latencia de servidores antes/después de un firewall).
 
 📌 [APE11](https://drive.google.com/file/d/1PtFCSlkfdoNfXZMJ0MIkftc0tx3GTct8/view?usp=sharing)
+
+#### EvaluacioUnidad2
+Notebook de cierre de Unidad 2 (inferencia estadística paramétrica) sobre el dataset ENEMDU filtrado a la provincia de Loja (300 registros).
+
+📌 [EvaluacioUnidad2](https://drive.google.com/file/d/11byPU_FBdNSG_1UM6rVyY6fHIedz1Xe8/view?usp=sharing)
+
