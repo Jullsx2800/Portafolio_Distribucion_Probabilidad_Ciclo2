@@ -103,3 +103,9 @@ Notebook de cierre de Unidad 2 (inferencia estadística paramétrica) sobre el d
 
 📌 [EvaluacioUnidad2](https://drive.google.com/file/d/11byPU_FBdNSG_1UM6rVyY6fHIedz1Xe8/view?usp=sharing)
 
+---
+
+## Bitacora Estudiantil
+
+En esta evaluación técnica, analicé el comportamiento del peso y la representatividad de los ciudadanos en la provincia de Loja frente a la realidad de todo el país, utilizando los datos oficiales de la encuesta nacional de condiciones de vida y empleo. Logré demostrar que la realidad demográfica de Loja no sigue el promedio general de la nación debido a sus características poblacionales específicas. Asimismo, al examinar la provincia internamente, identifiqué una diferencia marcada entre el sector urbano y el sector rural, lo que me reflejó que las metodologías de muestreo ponderan de forma muy distinta a las ciudades frente al campo. Por el contrario, al comparar a la población según sus respuestas a preguntas de opinión dentro de la encuesta, determiné que las variaciones observadas no son sólidas ni suficientes para marcar una separación real entre los grupos. A lo largo de la materia, enfrenté algunas dificultades mínimas, sobre todo al limpiar y corregir formatos de texto iniciales en las bases de datos y al aprender a no dejarme llevar por la primera impresión visual de los gráficos, lo que me obligó a priorizar siempre la contundencia analítica por encima de la intuición. En conclusión, este proceso me valida que el análisis formal de datos nos permite entender las particularidades sociales y geográficas de una región basándonos estrictamente en la evidencia.
+
